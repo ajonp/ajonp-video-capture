@@ -14,7 +14,7 @@ This is a stencil to build a video capture Web Component.
 
 ### Node Modules
 - Run `npm install ajonp-video-capture --save`
-- Put a script tag similar to this `<script src='node_modules/ajonp-video-capture/dist/myname.js></script>` in the head of your index.html
+- Put a script tag similar to this `<script src='node_modules/ajonp-video-capture/dist/ajonp.js'></script>` in the head of your index.html
 - Then you can use the element anywhere in your template, JSX, html etc
 
 ### In a stencil-starter app
