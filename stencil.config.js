@@ -1,8 +1,8 @@
 exports.config = {
-  namespace: 'myname',
+  namespace: 'ajonp',
   generateDistribution: true,
   bundles: [
-    { components: ['my-name'] }
+    { components: ['ajonp-video-capture'] }
   ]
 };
 

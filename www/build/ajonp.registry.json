@@ -1,0 +1,15 @@
+{
+  "namespace": "ajonp",
+  "components": [
+    [
+      "AJONP-VIDEO-CAPTURE",
+      "fezrm51v",
+      {
+        "$": "ba2voufv"
+      }
+    ]
+  ],
+  "loader": "ajonp.js",
+  "core": "ajonp/ajonp.mzkybvay.js",
+  "corePolyfilled": "ajonp/ajonp.6kllnru6.pf.js"
+}

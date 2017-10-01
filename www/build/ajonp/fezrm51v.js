@@ -1,0 +1,2 @@
+/*! Built with http://stenciljs.com */
+ajonp.loadComponents("fezrm51v",function(e,o,n,t,i){var r=function(){function e(){}return e.prototype.componentDidLoad=function(){var e=this;"mediaDevices"in navigator&&navigator.mediaDevices.getUserMedia({video:!0,audio:!1}).then(function(o){e.el.querySelector("video").srcObject=o})},e.prototype.render=function(){return o("div",{c:{"ajonp-video-capture-holder":!0}},o("video",{p:{autoplay:!0}}))},e}();e["AJONP-VIDEO-CAPTURE"]=r},["AJONP-VIDEO-CAPTURE",[["el",7]],{}]);
